@@ -3,6 +3,11 @@ package DataStructure.Algorithms;
 import org.junit.Assert;
 import org.junit.Test;
 
+/***
+ * https://leetcode.com/problems/sort-array-by-parity/description/
+ * @author rubin
+ *
+ */
 public class sortArrayByParity {
 	@Test
 	public void testSortArrayByParity() {
